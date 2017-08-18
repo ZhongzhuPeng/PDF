@@ -1,57 +1,52 @@
 
-TEXT_BOX  left:223px; top:97px; width:158px; height:21px; Daily Construction Report
-
-TEXT_BOX  left:20px; top:179px; width:28px; height:24px; Project:
+TEXT_BOX  left:21px; top:97px; width:28px; height:24px; Project:
 Location:
 
-TEXT_BOX  left:67px; top:179px; width:110px; height:22px; Sherwood Forest Elementary School
+TEXT_BOX  left:67px; top:97px; width:110px; height:22px; Sherwood Forest Elementary School
 4801 Maid Marion Drive
 
-TEXT_BOX  left:20px; top:209px; width:105px; height:49px; Fair Working Days To Date:
+TEXT_BOX  left:20px; top:127px; width:105px; height:49px; Fair Working Days To Date:
 Weather Delays To Date:
 Is Today Claimed as Weather Day?
 Critical Path Work Effected?
 
-TEXT_BOX  left:222px; top:223px; width:69px; height:22px; Weather Condition:
+TEXT_BOX  left:20px; top:199px; width:48px; height:27px; Employee
+Tanner Broughton
+
+TEXT_BOX  left:20px; top:231px; width:48px; height:9px; Tanner Broughton
+
+TEXT_BOX  left:20px; top:246px; width:33px; height:9px; Alisha White
+
+TEXT_BOX  left:222px; top:140px; width:69px; height:22px; Weather Condition:
 Precipitation Amount: 
 
-TEXT_BOX  left:189px; top:232px; width:5px; height:25px; N
+TEXT_BOX  left:324px; top:138px; width:20px; height:10px; Humid
+
+TEXT_BOX  left:189px; top:150px; width:5px; height:25px; N
 N
 
-TEXT_BOX  left:150px; top:273px; width:15px; height:20px; Sub
-Wrkrs
+TEXT_BOX  left:307px; top:199px; width:68px; height:11px; Work Accomplished
 
-TEXT_BOX  left:177px; top:273px; width:10px; height:20px; Sub
-Hrs
+TEXT_BOX  left:19px; top:269px; width:197px; height:60px; Remarks: SUBMITTED DAC SUBMITTAL TO City of NO.
+Communication with Subcontractors: Met with Malone Electric.
+Met with Discount Permits, set up SWPPP.
+Visitors: Met with Entergy Onsite
+Notes: 
 
-TEXT_BOX  left:201px; top:282px; width:28px; height:11px; 2nd Tier
-
-TEXT_BOX  left:256px; top:264px; width:15px; height:30px; 2nd
-Tier
-Wrkrs
-
-TEXT_BOX  left:285px; top:264px; width:90px; height:30px; 2nd
-Tier
-Hrs Work Accomplished
-
-TEXT_BOX  left:498px; top:179px; width:28px; height:67px; Job:
+TEXT_BOX  left:498px; top:97px; width:28px; height:67px; Job:
 Report #:
 Date:
 Day:
 Temp:
 
-TEXT_BOX  left:557px; top:179px; width:34px; height:67px; 14-02-002
+TEXT_BOX  left:557px; top:97px; width:34px; height:78px; 14-02-002
  1
-10/25/2014
-Saturday
+09/16/2014
+Tuesday
 High
+ 91
 
-TEXT_BOX  left:548px; top:236px; width:12px; height:10px; Low
+TEXT_BOX  left:548px; top:153px; width:13px; height:22px; Low
+ 77
 
-TEXT_BOX  left:546px; top:282px; width:3px; height:10px; S
-
-TEXT_BOX  left:564px; top:282px; width:22px; height:10px; Q Sch
-
-TEXT_BOX  left:60px; top:811px; width:4px; height:12px; 1
-
-TEXT_BOX  left:18px; top:70px; width:174px; height:80px; 
+TEXT_BOX  left:60px; top:811px; width:4px; height:12px; 3

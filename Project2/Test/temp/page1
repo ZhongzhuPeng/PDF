@@ -1,3 +1,4 @@
+#PAGE <<<1>>>
 
 TEXT_BOX  left:417px; top:106px; width:56px; height:8px; REPORT NUMBER
 
@@ -109,6 +110,7 @@ Worked
 
 TEXT_BOX  left:532px; top:654px; width:10px; height:20px; 0.0
 0.0
+#PAGE <<<2>>>
 
 TEXT_BOX  left:123px; top:952px; width:227px; height:12px; CONTRACTORS QUALITY CONTROL REPORT (QCR)
 

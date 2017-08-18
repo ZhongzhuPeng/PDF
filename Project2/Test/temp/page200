@@ -1,3 +1,4 @@
+#PAGE <<<1>>>
 
 TEXT_BOX  left:417px; top:106px; width:56px; height:8px; REPORT NUMBER
 
@@ -109,6 +110,7 @@ Worked
 
 TEXT_BOX  left:532px; top:654px; width:10px; height:20px; 0.0
 0.0
+#PAGE <<<2>>>
 
 TEXT_BOX  left:123px; top:952px; width:227px; height:12px; CONTRACTORS QUALITY CONTROL REPORT (QCR)
 
@@ -150,6 +152,7 @@ TEXT_BOX  left:281px; top:1593px; width:16px; height:8px; DATE
 TEXT_BOX  left:369px; top:1593px; width:94px; height:8px; SUPERINTENDENT'S INITIALS
 
 TEXT_BOX  left:508px; top:1593px; width:16px; height:8px; DATE
+#PAGE <<<3>>>
 
 TEXT_BOX  left:123px; top:1794px; width:227px; height:12px; CONTRACTORS QUALITY CONTROL REPORT (QCR)
 
@@ -242,6 +245,7 @@ No Punch List items were corrected today
 TEXT_BOX  left:75px; top:2369px; width:278px; height:10px; CONTRACTORS ON SITE (Report first and/or last day contractors w ere on site)
 
 TEXT_BOX  left:85px; top:2383px; width:206px; height:10px; No contractors had their first or last day on site today
+#PAGE <<<4>>>
 
 TEXT_BOX  left:123px; top:2636px; width:227px; height:12px; CONTRACTORS QUALITY CONTROL REPORT (QCR)
 
@@ -313,6 +317,7 @@ TEXT_BOX  left:281px; top:3277px; width:16px; height:8px; DATE
 TEXT_BOX  left:369px; top:3277px; width:94px; height:8px; SUPERINTENDENT'S INITIALS
 
 TEXT_BOX  left:508px; top:3277px; width:16px; height:8px; DATE
+#PAGE <<<5>>>
 
 TEXT_BOX  left:417px; top:3474px; width:56px; height:8px; REPORT NUMBER
 
@@ -420,6 +425,7 @@ Worked
 
 TEXT_BOX  left:532px; top:4039px; width:10px; height:20px; 0.0
 0.0
+#PAGE <<<6>>>
 
 TEXT_BOX  left:123px; top:4320px; width:227px; height:12px; CONTRACTORS QUALITY CONTROL REPORT (QCR)
 
@@ -467,6 +473,7 @@ TEXT_BOX  left:281px; top:4961px; width:16px; height:8px; DATE
 TEXT_BOX  left:369px; top:4961px; width:94px; height:8px; SUPERINTENDENT'S INITIALS
 
 TEXT_BOX  left:508px; top:4961px; width:16px; height:8px; DATE
+#PAGE <<<7>>>
 
 TEXT_BOX  left:417px; top:5158px; width:56px; height:8px; REPORT NUMBER
 
@@ -574,6 +581,7 @@ Worked
 
 TEXT_BOX  left:532px; top:5723px; width:10px; height:20px; 0.0
 0.0
+#PAGE <<<8>>>
 
 TEXT_BOX  left:123px; top:6004px; width:227px; height:12px; CONTRACTORS QUALITY CONTROL REPORT (QCR)
 
@@ -621,6 +629,7 @@ TEXT_BOX  left:281px; top:6645px; width:16px; height:8px; DATE
 TEXT_BOX  left:369px; top:6645px; width:94px; height:8px; SUPERINTENDENT'S INITIALS
 
 TEXT_BOX  left:508px; top:6645px; width:16px; height:8px; DATE
+#PAGE <<<9>>>
 
 TEXT_BOX  left:417px; top:6842px; width:56px; height:8px; REPORT NUMBER
 
@@ -728,6 +737,7 @@ Worked
 
 TEXT_BOX  left:532px; top:7407px; width:10px; height:20px; 0.0
 0.0
+#PAGE <<<10>>>
 
 TEXT_BOX  left:123px; top:7688px; width:227px; height:12px; CONTRACTORS QUALITY CONTROL REPORT (QCR)
 
@@ -775,6 +785,7 @@ TEXT_BOX  left:281px; top:8329px; width:16px; height:8px; DATE
 TEXT_BOX  left:369px; top:8329px; width:94px; height:8px; SUPERINTENDENT'S INITIALS
 
 TEXT_BOX  left:508px; top:8329px; width:16px; height:8px; DATE
+#PAGE <<<11>>>
 
 TEXT_BOX  left:123px; top:8530px; width:228px; height:12px; CONTRACTORS QUALITY CONTROL REPORT (QCR)
 
@@ -883,6 +894,7 @@ TEXT_BOX  left:281px; top:9172px; width:16px; height:8px; DATE
 TEXT_BOX  left:370px; top:9172px; width:94px; height:8px; SUPERINTENDENT'S INITIALS
 
 TEXT_BOX  left:509px; top:9172px; width:16px; height:8px; DATE
+#PAGE <<<12>>>
 
 TEXT_BOX  left:123px; top:9372px; width:227px; height:12px; CONTRACTORS QUALITY CONTROL REPORT (QCR)
 
@@ -994,6 +1006,7 @@ TEXT_BOX  left:281px; top:10013px; width:16px; height:8px; DATE
 TEXT_BOX  left:369px; top:10013px; width:94px; height:8px; SUPERINTENDENT'S INITIALS
 
 TEXT_BOX  left:508px; top:10013px; width:16px; height:8px; DATE
+#PAGE <<<13>>>
 
 TEXT_BOX  left:417px; top:10210px; width:56px; height:8px; REPORT NUMBER
 
@@ -1104,6 +1117,7 @@ TEXT_BOX  left:508px; top:10789px; width:26px; height:20px; Hours
 Worked
 
 TEXT_BOX  left:532px; top:10813px; width:10px; height:10px; 5.0
+#PAGE <<<14>>>
 
 TEXT_BOX  left:123px; top:11056px; width:227px; height:12px; CONTRACTORS QUALITY CONTROL REPORT (QCR)
 
@@ -1183,6 +1197,7 @@ TEXT_BOX  left:281px; top:11697px; width:16px; height:8px; DATE
 TEXT_BOX  left:369px; top:11697px; width:94px; height:8px; SUPERINTENDENT'S INITIALS
 
 TEXT_BOX  left:508px; top:11697px; width:16px; height:8px; DATE
+#PAGE <<<15>>>
 
 TEXT_BOX  left:123px; top:11898px; width:227px; height:12px; CONTRACTORS QUALITY CONTROL REPORT (QCR)
 
@@ -1294,6 +1309,7 @@ Worked
 TEXT_BOX  left:527px; top:12468px; width:14px; height:30px; 20.0
 10.0
 30.0
+#PAGE <<<16>>>
 
 TEXT_BOX  left:123px; top:12740px; width:227px; height:12px; CONTRACTORS QUALITY CONTROL REPORT (QCR)
 
@@ -1360,6 +1376,7 @@ TEXT_BOX  left:281px; top:13381px; width:16px; height:8px; DATE
 TEXT_BOX  left:369px; top:13381px; width:94px; height:8px; SUPERINTENDENT'S INITIALS
 
 TEXT_BOX  left:508px; top:13381px; width:16px; height:8px; DATE
+#PAGE <<<17>>>
 
 TEXT_BOX  left:123px; top:13582px; width:227px; height:12px; CONTRACTORS QUALITY CONTROL REPORT (QCR)
 
@@ -1471,6 +1488,7 @@ Worked
 TEXT_BOX  left:527px; top:14143px; width:14px; height:30px; 10.0
 20.0
 30.0
+#PAGE <<<18>>>
 
 TEXT_BOX  left:123px; top:14424px; width:227px; height:12px; CONTRACTORS QUALITY CONTROL REPORT (QCR)
 
@@ -1541,6 +1559,7 @@ TEXT_BOX  left:281px; top:15065px; width:16px; height:8px; DATE
 TEXT_BOX  left:369px; top:15065px; width:94px; height:8px; SUPERINTENDENT'S INITIALS
 
 TEXT_BOX  left:508px; top:15065px; width:16px; height:8px; DATE
+#PAGE <<<19>>>
 
 TEXT_BOX  left:417px; top:15262px; width:56px; height:8px; REPORT NUMBER
 
@@ -1635,6 +1654,7 @@ No Punch List items were corrected today
 TEXT_BOX  left:75px; top:15819px; width:278px; height:10px; CONTRACTORS ON SITE (Report first and/or last day contractors w ere on site)
 
 TEXT_BOX  left:85px; top:15832px; width:206px; height:10px; No contractors had their first or last day on site today
+#PAGE <<<20>>>
 
 TEXT_BOX  left:417px; top:16104px; width:56px; height:8px; REPORT NUMBER
 
@@ -1688,6 +1708,7 @@ TEXT_BOX  left:281px; top:16749px; width:16px; height:8px; DATE
 TEXT_BOX  left:369px; top:16749px; width:94px; height:8px; SUPERINTENDENT'S INITIALS
 
 TEXT_BOX  left:508px; top:16749px; width:16px; height:8px; DATE
+#PAGE <<<21>>>
 
 TEXT_BOX  left:123px; top:16950px; width:227px; height:12px; CONTRACTORS QUALITY CONTROL REPORT (QCR)
 
@@ -1777,6 +1798,7 @@ No Punch List items were corrected today
 TEXT_BOX  left:75px; top:17499px; width:278px; height:10px; CONTRACTORS ON SITE (Report first and/or last day contractors w ere on site)
 
 TEXT_BOX  left:85px; top:17513px; width:206px; height:10px; No contractors had their first or last day on site today
+#PAGE <<<22>>>
 
 TEXT_BOX  left:123px; top:17792px; width:227px; height:12px; CONTRACTORS QUALITY CONTROL REPORT (QCR)
 
@@ -1879,6 +1901,7 @@ TEXT_BOX  left:281px; top:18433px; width:16px; height:8px; DATE
 TEXT_BOX  left:369px; top:18433px; width:94px; height:8px; SUPERINTENDENT'S INITIALS
 
 TEXT_BOX  left:508px; top:18433px; width:16px; height:8px; DATE
+#PAGE <<<23>>>
 
 TEXT_BOX  left:123px; top:18634px; width:227px; height:12px; CONTRACTORS QUALITY CONTROL REPORT (QCR)
 
@@ -1973,6 +1996,7 @@ TEXT_BOX  left:85px; top:19197px; width:126px; height:10px; No activities were f
 TEXT_BOX  left:75px; top:19214px; width:70px; height:10px; QC REQUIREMENTS
 
 TEXT_BOX  left:85px; top:19228px; width:169px; height:10px; No QC requirements were completed today
+#PAGE <<<24>>>
 
 TEXT_BOX  left:123px; top:19476px; width:227px; height:12px; CONTRACTORS QUALITY CONTROL REPORT (QCR)
 
@@ -2097,6 +2121,7 @@ TEXT_BOX  left:281px; top:20117px; width:16px; height:8px; DATE
 TEXT_BOX  left:369px; top:20117px; width:94px; height:8px; SUPERINTENDENT'S INITIALS
 
 TEXT_BOX  left:508px; top:20117px; width:16px; height:8px; DATE
+#PAGE <<<25>>>
 
 TEXT_BOX  left:417px; top:20314px; width:56px; height:8px; REPORT NUMBER
 
@@ -2188,6 +2213,7 @@ No Punch List items were corrected today
 TEXT_BOX  left:75px; top:20867px; width:278px; height:10px; CONTRACTORS ON SITE (Report first and/or last day contractors w ere on site)
 
 TEXT_BOX  left:85px; top:20881px; width:206px; height:10px; No contractors had their first or last day on site today
+#PAGE <<<26>>>
 
 TEXT_BOX  left:123px; top:21160px; width:227px; height:12px; CONTRACTORS QUALITY CONTROL REPORT (QCR)
 
@@ -2310,6 +2336,7 @@ TEXT_BOX  left:281px; top:21801px; width:16px; height:8px; DATE
 TEXT_BOX  left:369px; top:21801px; width:94px; height:8px; SUPERINTENDENT'S INITIALS
 
 TEXT_BOX  left:508px; top:21801px; width:16px; height:8px; DATE
+#PAGE <<<27>>>
 
 TEXT_BOX  left:123px; top:22002px; width:227px; height:12px; CONTRACTORS QUALITY CONTROL REPORT (QCR)
 
@@ -2403,6 +2430,7 @@ TEXT_BOX  left:85px; top:22548px; width:126px; height:10px; No activities were f
 TEXT_BOX  left:75px; top:22565px; width:70px; height:10px; QC REQUIREMENTS
 
 TEXT_BOX  left:85px; top:22579px; width:169px; height:10px; No QC requirements were completed today
+#PAGE <<<28>>>
 
 TEXT_BOX  left:123px; top:22844px; width:227px; height:12px; CONTRACTORS QUALITY CONTROL REPORT (QCR)
 
@@ -2540,6 +2568,7 @@ TEXT_BOX  left:281px; top:23485px; width:16px; height:8px; DATE
 TEXT_BOX  left:369px; top:23485px; width:94px; height:8px; SUPERINTENDENT'S INITIALS
 
 TEXT_BOX  left:508px; top:23485px; width:16px; height:8px; DATE
+#PAGE <<<29>>>
 
 TEXT_BOX  left:123px; top:23686px; width:227px; height:12px; CONTRACTORS QUALITY CONTROL REPORT (QCR)
 
@@ -2635,6 +2664,7 @@ No Punch List items were corrected today
 TEXT_BOX  left:75px; top:24247px; width:278px; height:10px; CONTRACTORS ON SITE (Report first and/or last day contractors w ere on site)
 
 TEXT_BOX  left:85px; top:24261px; width:206px; height:10px; No contractors had their first or last day on site today
+#PAGE <<<30>>>
 
 TEXT_BOX  left:123px; top:24528px; width:227px; height:12px; CONTRACTORS QUALITY CONTROL REPORT (QCR)
 
@@ -2729,6 +2759,7 @@ TEXT_BOX  left:281px; top:25169px; width:16px; height:8px; DATE
 TEXT_BOX  left:369px; top:25169px; width:94px; height:8px; SUPERINTENDENT'S INITIALS
 
 TEXT_BOX  left:508px; top:25169px; width:16px; height:8px; DATE
+#PAGE <<<31>>>
 
 TEXT_BOX  left:417px; top:25366px; width:56px; height:8px; REPORT NUMBER
 
@@ -2825,6 +2856,7 @@ TEXT_BOX  left:170px; top:25931px; width:290px; height:10px; (Describe QC Punch 
 
 TEXT_BOX  left:85px; top:25945px; width:165px; height:24px; No QC Punch List items were issued today
 No Punch List items were corrected today
+#PAGE <<<32>>>
 
 TEXT_BOX  left:123px; top:26212px; width:227px; height:12px; CONTRACTORS QUALITY CONTROL REPORT (QCR)
 
@@ -2939,6 +2971,7 @@ TEXT_BOX  left:281px; top:26853px; width:16px; height:8px; DATE
 TEXT_BOX  left:369px; top:26853px; width:94px; height:8px; SUPERINTENDENT'S INITIALS
 
 TEXT_BOX  left:508px; top:26853px; width:16px; height:8px; DATE
+#PAGE <<<33>>>
 
 TEXT_BOX  left:417px; top:27050px; width:56px; height:8px; REPORT NUMBER
 
@@ -3031,6 +3064,7 @@ No Punch List items were corrected today
 TEXT_BOX  left:75px; top:27629px; width:278px; height:10px; CONTRACTORS ON SITE (Report first and/or last day contractors w ere on site)
 
 TEXT_BOX  left:85px; top:27643px; width:206px; height:10px; No contractors had their first or last day on site today
+#PAGE <<<34>>>
 
 TEXT_BOX  left:123px; top:27896px; width:227px; height:12px; CONTRACTORS QUALITY CONTROL REPORT (QCR)
 
@@ -3161,6 +3195,7 @@ TEXT_BOX  left:281px; top:28537px; width:16px; height:8px; DATE
 TEXT_BOX  left:369px; top:28537px; width:94px; height:8px; SUPERINTENDENT'S INITIALS
 
 TEXT_BOX  left:508px; top:28537px; width:16px; height:8px; DATE
+#PAGE <<<35>>>
 
 TEXT_BOX  left:417px; top:28734px; width:56px; height:8px; REPORT NUMBER
 
@@ -3254,6 +3289,7 @@ TEXT_BOX  left:170px; top:29290px; width:290px; height:10px; (Describe QC Punch 
 
 TEXT_BOX  left:85px; top:29303px; width:165px; height:24px; No QC Punch List items were issued today
 No Punch List items were corrected today
+#PAGE <<<36>>>
 
 TEXT_BOX  left:123px; top:29580px; width:227px; height:12px; CONTRACTORS QUALITY CONTROL REPORT (QCR)
 
@@ -3376,6 +3412,7 @@ TEXT_BOX  left:281px; top:30221px; width:16px; height:8px; DATE
 TEXT_BOX  left:369px; top:30221px; width:94px; height:8px; SUPERINTENDENT'S INITIALS
 
 TEXT_BOX  left:508px; top:30221px; width:16px; height:8px; DATE
+#PAGE <<<37>>>
 
 TEXT_BOX  left:417px; top:30418px; width:56px; height:8px; REPORT NUMBER
 
@@ -3482,6 +3519,7 @@ TEXT_BOX  left:75px; top:31012px; width:70px; height:10px; QA/QC PUNCH LIST
 TEXT_BOX  left:170px; top:31012px; width:290px; height:10px; (Describe QC Punch List items issued, Report QC and QA Punch List items corrected)
 
 TEXT_BOX  left:85px; top:31026px; width:165px; height:10px; No QC Punch List items were issued today
+#PAGE <<<38>>>
 
 TEXT_BOX  left:123px; top:31264px; width:227px; height:12px; CONTRACTORS QUALITY CONTROL REPORT (QCR)
 
@@ -3630,6 +3668,7 @@ TEXT_BOX  left:281px; top:31905px; width:16px; height:8px; DATE
 TEXT_BOX  left:369px; top:31905px; width:94px; height:8px; SUPERINTENDENT'S INITIALS
 
 TEXT_BOX  left:508px; top:31905px; width:16px; height:8px; DATE
+#PAGE <<<39>>>
 
 TEXT_BOX  left:123px; top:32106px; width:227px; height:12px; CONTRACTORS QUALITY CONTROL REPORT (QCR)
 
@@ -3730,6 +3769,7 @@ TEXT_BOX  left:75px; top:32695px; width:70px; height:10px; QA/QC PUNCH LIST
 TEXT_BOX  left:170px; top:32695px; width:290px; height:10px; (Describe QC Punch List items issued, Report QC and QA Punch List items corrected)
 
 TEXT_BOX  left:85px; top:32708px; width:165px; height:10px; No QC Punch List items were issued today
+#PAGE <<<40>>>
 
 TEXT_BOX  left:123px; top:32948px; width:227px; height:12px; CONTRACTORS QUALITY CONTROL REPORT (QCR)
 
@@ -3862,6 +3902,7 @@ TEXT_BOX  left:281px; top:33589px; width:16px; height:8px; DATE
 TEXT_BOX  left:369px; top:33589px; width:94px; height:8px; SUPERINTENDENT'S INITIALS
 
 TEXT_BOX  left:508px; top:33589px; width:16px; height:8px; DATE
+#PAGE <<<41>>>
 
 TEXT_BOX  left:123px; top:33790px; width:227px; height:12px; CONTRACTORS QUALITY CONTROL REPORT (QCR)
 
@@ -3962,6 +4003,7 @@ TEXT_BOX  left:75px; top:34370px; width:70px; height:10px; QA/QC PUNCH LIST
 TEXT_BOX  left:170px; top:34370px; width:290px; height:10px; (Describe QC Punch List items issued, Report QC and QA Punch List items corrected)
 
 TEXT_BOX  left:85px; top:34384px; width:165px; height:10px; No QC Punch List items were issued today
+#PAGE <<<42>>>
 
 TEXT_BOX  left:123px; top:34632px; width:227px; height:12px; CONTRACTORS QUALITY CONTROL REPORT (QCR)
 
@@ -4102,6 +4144,7 @@ TEXT_BOX  left:281px; top:35273px; width:16px; height:8px; DATE
 TEXT_BOX  left:369px; top:35273px; width:94px; height:8px; SUPERINTENDENT'S INITIALS
 
 TEXT_BOX  left:508px; top:35273px; width:16px; height:8px; DATE
+#PAGE <<<43>>>
 
 TEXT_BOX  left:417px; top:35470px; width:56px; height:8px; REPORT NUMBER
 
@@ -4195,6 +4238,7 @@ No Punch List items were corrected today
 TEXT_BOX  left:75px; top:36049px; width:278px; height:10px; CONTRACTORS ON SITE (Report first and/or last day contractors w ere on site)
 
 TEXT_BOX  left:85px; top:36063px; width:206px; height:10px; No contractors had their first or last day on site today
+#PAGE <<<44>>>
 
 TEXT_BOX  left:123px; top:36316px; width:227px; height:12px; CONTRACTORS QUALITY CONTROL REPORT (QCR)
 
@@ -4325,6 +4369,7 @@ TEXT_BOX  left:281px; top:36957px; width:16px; height:8px; DATE
 TEXT_BOX  left:369px; top:36957px; width:94px; height:8px; SUPERINTENDENT'S INITIALS
 
 TEXT_BOX  left:508px; top:36957px; width:16px; height:8px; DATE
+#PAGE <<<45>>>
 
 TEXT_BOX  left:123px; top:37158px; width:227px; height:12px; CONTRACTORS QUALITY CONTROL REPORT (QCR)
 
@@ -4433,6 +4478,7 @@ TEXT_BOX  left:508px; top:37738px; width:26px; height:20px; Hours
 Worked
 
 TEXT_BOX  left:527px; top:37762px; width:14px; height:10px; 24.0
+#PAGE <<<46>>>
 
 TEXT_BOX  left:123px; top:38000px; width:227px; height:12px; CONTRACTORS QUALITY CONTROL REPORT (QCR)
 
@@ -4520,6 +4566,7 @@ TEXT_BOX  left:281px; top:38641px; width:16px; height:8px; DATE
 TEXT_BOX  left:369px; top:38641px; width:94px; height:8px; SUPERINTENDENT'S INITIALS
 
 TEXT_BOX  left:508px; top:38641px; width:16px; height:8px; DATE
+#PAGE <<<47>>>
 
 TEXT_BOX  left:123px; top:38842px; width:227px; height:12px; CONTRACTORS QUALITY CONTROL REPORT (QCR)
 
@@ -4616,6 +4663,7 @@ P51330
 TEXT_BOX  left:156px; top:39424px; width:101px; height:30px; Description
 Abate Building #4204
 Asbestos Abatement 34 Bldg.
+#PAGE <<<48>>>
 
 TEXT_BOX  left:123px; top:39684px; width:227px; height:12px; CONTRACTORS QUALITY CONTROL REPORT (QCR)
 
@@ -4770,6 +4818,7 @@ TEXT_BOX  left:281px; top:40325px; width:16px; height:8px; DATE
 TEXT_BOX  left:369px; top:40325px; width:94px; height:8px; SUPERINTENDENT'S INITIALS
 
 TEXT_BOX  left:508px; top:40325px; width:16px; height:8px; DATE
+#PAGE <<<49>>>
 
 TEXT_BOX  left:123px; top:40526px; width:227px; height:12px; CONTRACTORS QUALITY CONTROL REPORT (QCR)
 
@@ -4858,6 +4907,7 @@ TEXT_BOX  left:85px; top:41111px; width:156px; height:10px; The following activi
 TEXT_BOX  left:95px; top:41125px; width:36px; height:10px; Activity No
 
 TEXT_BOX  left:156px; top:41125px; width:38px; height:10px; Description
+#PAGE <<<50>>>
 
 TEXT_BOX  left:123px; top:41368px; width:227px; height:12px; CONTRACTORS QUALITY CONTROL REPORT (QCR)
 
@@ -5043,6 +5093,7 @@ TEXT_BOX  left:281px; top:42009px; width:16px; height:8px; DATE
 TEXT_BOX  left:369px; top:42009px; width:94px; height:8px; SUPERINTENDENT'S INITIALS
 
 TEXT_BOX  left:508px; top:42009px; width:16px; height:8px; DATE
+#PAGE <<<51>>>
 
 TEXT_BOX  left:123px; top:42210px; width:227px; height:12px; CONTRACTORS QUALITY CONTROL REPORT (QCR)
 
@@ -5140,6 +5191,7 @@ Demo Building #4263
 Demo Building #4274
 
 TEXT_BOX  left:85px; top:42805px; width:126px; height:10px; No activities were finished today
+#PAGE <<<52>>>
 
 TEXT_BOX  left:123px; top:43052px; width:227px; height:12px; CONTRACTORS QUALITY CONTROL REPORT (QCR)
 
@@ -5297,6 +5349,7 @@ TEXT_BOX  left:281px; top:43693px; width:16px; height:8px; DATE
 TEXT_BOX  left:369px; top:43693px; width:94px; height:8px; SUPERINTENDENT'S INITIALS
 
 TEXT_BOX  left:508px; top:43693px; width:16px; height:8px; DATE
+#PAGE <<<53>>>
 
 TEXT_BOX  left:417px; top:43890px; width:56px; height:8px; REPORT NUMBER
 
@@ -5390,6 +5443,7 @@ P51235
 
 TEXT_BOX  left:156px; top:44484px; width:71px; height:20px; Description
 Abate Building #4256
+#PAGE <<<54>>>
 
 TEXT_BOX  left:123px; top:44736px; width:227px; height:12px; CONTRACTORS QUALITY CONTROL REPORT (QCR)
 
@@ -5571,6 +5625,7 @@ TEXT_BOX  left:281px; top:45377px; width:16px; height:8px; DATE
 TEXT_BOX  left:369px; top:45377px; width:94px; height:8px; SUPERINTENDENT'S INITIALS
 
 TEXT_BOX  left:508px; top:45377px; width:16px; height:8px; DATE
+#PAGE <<<55>>>
 
 TEXT_BOX  left:417px; top:45574px; width:56px; height:8px; REPORT NUMBER
 
@@ -5668,6 +5723,7 @@ IDEQ - Environmental Protectio
 TEXT_BOX  left:75px; top:46143px; width:70px; height:10px; QC REQUIREMENTS
 
 TEXT_BOX  left:85px; top:46156px; width:169px; height:10px; No QC requirements were completed today
+#PAGE <<<56>>>
 
 TEXT_BOX  left:123px; top:46420px; width:227px; height:12px; CONTRACTORS QUALITY CONTROL REPORT (QCR)
 
@@ -5785,6 +5841,7 @@ TEXT_BOX  left:281px; top:47061px; width:16px; height:8px; DATE
 TEXT_BOX  left:369px; top:47061px; width:94px; height:8px; SUPERINTENDENT'S INITIALS
 
 TEXT_BOX  left:508px; top:47061px; width:16px; height:8px; DATE
+#PAGE <<<57>>>
 
 TEXT_BOX  left:123px; top:47262px; width:227px; height:12px; CONTRACTORS QUALITY CONTROL REPORT (QCR)
 
@@ -5880,6 +5937,7 @@ P51270
 TEXT_BOX  left:156px; top:47844px; width:71px; height:30px; Description
 Abate Building #4264
 Abate Building #4269
+#PAGE <<<58>>>
 
 TEXT_BOX  left:123px; top:48104px; width:227px; height:12px; CONTRACTORS QUALITY CONTROL REPORT (QCR)
 
@@ -6055,6 +6113,7 @@ TEXT_BOX  left:281px; top:48745px; width:16px; height:8px; DATE
 TEXT_BOX  left:369px; top:48745px; width:94px; height:8px; SUPERINTENDENT'S INITIALS
 
 TEXT_BOX  left:508px; top:48745px; width:16px; height:8px; DATE
+#PAGE <<<59>>>
 
 TEXT_BOX  left:123px; top:48946px; width:227px; height:12px; CONTRACTORS QUALITY CONTROL REPORT (QCR)
 
@@ -6154,6 +6213,7 @@ Procure &amp; Fabricate Water Line
 Abate Building #4271
 
 TEXT_BOX  left:85px; top:49548px; width:126px; height:10px; No activities were finished today
+#PAGE <<<60>>>
 
 TEXT_BOX  left:123px; top:49788px; width:227px; height:12px; CONTRACTORS QUALITY CONTROL REPORT (QCR)
 
@@ -6307,6 +6367,7 @@ TEXT_BOX  left:281px; top:50429px; width:16px; height:8px; DATE
 TEXT_BOX  left:369px; top:50429px; width:94px; height:8px; SUPERINTENDENT'S INITIALS
 
 TEXT_BOX  left:508px; top:50429px; width:16px; height:8px; DATE
+#PAGE <<<61>>>
 
 TEXT_BOX  left:123px; top:50630px; width:227px; height:12px; CONTRACTORS QUALITY CONTROL REPORT (QCR)
 
@@ -6396,6 +6457,7 @@ Trenching Services
 
 TEXT_BOX  left:95px; top:51220px; width:95px; height:18px; RFI &amp; RFP STATUS UPDATE
 NA
+#PAGE <<<62>>>
 
 TEXT_BOX  left:123px; top:51472px; width:227px; height:12px; CONTRACTORS QUALITY CONTROL REPORT (QCR)
 
@@ -6568,6 +6630,7 @@ TEXT_BOX  left:527px; top:51952px; width:14px; height:132px; 10.5
 2.0
 9.5
 89.0
+#PAGE <<<63>>>
 
 TEXT_BOX  left:123px; top:52314px; width:227px; height:12px; CONTRACTORS QUALITY CONTROL REPORT (QCR)
 
@@ -6611,6 +6674,7 @@ TEXT_BOX  left:281px; top:52955px; width:16px; height:8px; DATE
 TEXT_BOX  left:369px; top:52955px; width:94px; height:8px; SUPERINTENDENT'S INITIALS
 
 TEXT_BOX  left:508px; top:52955px; width:16px; height:8px; DATE
+#PAGE <<<64>>>
 
 TEXT_BOX  left:123px; top:53156px; width:227px; height:12px; CONTRACTORS QUALITY CONTROL REPORT (QCR)
 
@@ -6701,6 +6765,7 @@ TEXT_BOX  left:85px; top:53702px; width:203px; height:10px; No preparatory or in
 TEXT_BOX  left:75px; top:53719px; width:89px; height:10px; ACTIVITY START/FINISH
 
 TEXT_BOX  left:85px; top:53733px; width:167px; height:10px; No activities were started or finished today
+#PAGE <<<65>>>
 
 TEXT_BOX  left:123px; top:53998px; width:227px; height:12px; CONTRACTORS QUALITY CONTROL REPORT (QCR)
 
@@ -6886,6 +6951,7 @@ TEXT_BOX  left:281px; top:54639px; width:16px; height:8px; DATE
 TEXT_BOX  left:369px; top:54639px; width:94px; height:8px; SUPERINTENDENT'S INITIALS
 
 TEXT_BOX  left:508px; top:54639px; width:16px; height:8px; DATE
+#PAGE <<<66>>>
 
 TEXT_BOX  left:123px; top:54840px; width:227px; height:12px; CONTRACTORS QUALITY CONTROL REPORT (QCR)
 
@@ -6983,6 +7049,7 @@ P5415
 
 TEXT_BOX  left:156px; top:55425px; width:118px; height:20px; Description
 Government Design Review  &amp; App
+#PAGE <<<67>>>
 
 TEXT_BOX  left:123px; top:55682px; width:227px; height:12px; CONTRACTORS QUALITY CONTROL REPORT (QCR)
 
@@ -7132,6 +7199,7 @@ TEXT_BOX  left:281px; top:56323px; width:16px; height:8px; DATE
 TEXT_BOX  left:369px; top:56323px; width:94px; height:8px; SUPERINTENDENT'S INITIALS
 
 TEXT_BOX  left:508px; top:56323px; width:16px; height:8px; DATE
+#PAGE <<<68>>>
 
 TEXT_BOX  left:123px; top:56524px; width:227px; height:12px; CONTRACTORS QUALITY CONTROL REPORT (QCR)
 
@@ -7233,6 +7301,7 @@ TEXT_BOX  left:85px; top:57104px; width:159px; height:10px; The following activi
 TEXT_BOX  left:95px; top:57118px; width:36px; height:10px; Activity No
 
 TEXT_BOX  left:156px; top:57118px; width:38px; height:10px; Description
+#PAGE <<<69>>>
 
 TEXT_BOX  left:123px; top:57366px; width:227px; height:12px; CONTRACTORS QUALITY CONTROL REPORT (QCR)
 
@@ -7405,6 +7474,7 @@ TEXT_BOX  left:281px; top:58007px; width:16px; height:8px; DATE
 TEXT_BOX  left:369px; top:58007px; width:94px; height:8px; SUPERINTENDENT'S INITIALS
 
 TEXT_BOX  left:508px; top:58007px; width:16px; height:8px; DATE
+#PAGE <<<70>>>
 
 TEXT_BOX  left:417px; top:58204px; width:56px; height:8px; REPORT NUMBER
 
@@ -7493,6 +7563,7 @@ TEXT_BOX  left:85px; top:58754px; width:203px; height:10px; No preparatory or in
 TEXT_BOX  left:75px; top:58771px; width:89px; height:10px; ACTIVITY START/FINISH
 
 TEXT_BOX  left:85px; top:58785px; width:167px; height:10px; No activities were started or finished today
+#PAGE <<<71>>>
 
 TEXT_BOX  left:123px; top:59050px; width:227px; height:12px; CONTRACTORS QUALITY CONTROL REPORT (QCR)
 
@@ -7665,6 +7736,7 @@ TEXT_BOX  left:281px; top:59691px; width:16px; height:8px; DATE
 TEXT_BOX  left:369px; top:59691px; width:94px; height:8px; SUPERINTENDENT'S INITIALS
 
 TEXT_BOX  left:508px; top:59691px; width:16px; height:8px; DATE
+#PAGE <<<72>>>
 
 TEXT_BOX  left:123px; top:59892px; width:227px; height:12px; CONTRACTORS QUALITY CONTROL REPORT (QCR)
 
@@ -7758,6 +7830,7 @@ Demo Building #4255
 Demo Building #4256
 
 TEXT_BOX  left:85px; top:60491px; width:126px; height:10px; No activities were finished today
+#PAGE <<<73>>>
 
 TEXT_BOX  left:123px; top:60734px; width:227px; height:12px; CONTRACTORS QUALITY CONTROL REPORT (QCR)
 
@@ -7934,6 +8007,7 @@ TEXT_BOX  left:281px; top:61375px; width:16px; height:8px; DATE
 TEXT_BOX  left:369px; top:61375px; width:94px; height:8px; SUPERINTENDENT'S INITIALS
 
 TEXT_BOX  left:508px; top:61375px; width:16px; height:8px; DATE
+#PAGE <<<74>>>
 
 TEXT_BOX  left:417px; top:61572px; width:56px; height:8px; REPORT NUMBER
 
@@ -8024,6 +8098,7 @@ TEXT_BOX  left:170px; top:62124px; width:290px; height:10px; (Describe QC Punch 
 
 TEXT_BOX  left:85px; top:62137px; width:165px; height:24px; No QC Punch List items were issued today
 No Punch List items were corrected today
+#PAGE <<<75>>>
 
 TEXT_BOX  left:123px; top:62418px; width:227px; height:12px; CONTRACTORS QUALITY CONTROL REPORT (QCR)
 
@@ -8173,6 +8248,7 @@ TEXT_BOX  left:281px; top:63059px; width:16px; height:8px; DATE
 TEXT_BOX  left:369px; top:63059px; width:94px; height:8px; SUPERINTENDENT'S INITIALS
 
 TEXT_BOX  left:508px; top:63059px; width:16px; height:8px; DATE
+#PAGE <<<76>>>
 
 TEXT_BOX  left:123px; top:63260px; width:227px; height:12px; CONTRACTORS QUALITY CONTROL REPORT (QCR)
 
@@ -8268,6 +8344,7 @@ TEXT_BOX  left:170px; top:63813px; width:290px; height:10px; (Describe QC Punch 
 
 TEXT_BOX  left:85px; top:63826px; width:165px; height:24px; No QC Punch List items were issued today
 No Punch List items were corrected today
+#PAGE <<<77>>>
 
 TEXT_BOX  left:123px; top:64102px; width:227px; height:12px; CONTRACTORS QUALITY CONTROL REPORT (QCR)
 
@@ -8410,6 +8487,7 @@ TEXT_BOX  left:281px; top:64743px; width:16px; height:8px; DATE
 TEXT_BOX  left:369px; top:64743px; width:94px; height:8px; SUPERINTENDENT'S INITIALS
 
 TEXT_BOX  left:508px; top:64743px; width:16px; height:8px; DATE
+#PAGE <<<78>>>
 
 TEXT_BOX  left:123px; top:64944px; width:227px; height:12px; CONTRACTORS QUALITY CONTROL REPORT (QCR)
 
@@ -8513,6 +8591,7 @@ Employees
 
 TEXT_BOX  left:508px; top:65533px; width:26px; height:20px; Hours
 Worked
+#PAGE <<<79>>>
 
 TEXT_BOX  left:123px; top:65786px; width:227px; height:12px; CONTRACTORS QUALITY CONTROL REPORT (QCR)
 
@@ -8635,6 +8714,7 @@ TEXT_BOX  left:281px; top:66427px; width:16px; height:8px; DATE
 TEXT_BOX  left:369px; top:66427px; width:94px; height:8px; SUPERINTENDENT'S INITIALS
 
 TEXT_BOX  left:508px; top:66427px; width:16px; height:8px; DATE
+#PAGE <<<80>>>
 
 TEXT_BOX  left:123px; top:66628px; width:227px; height:12px; CONTRACTORS QUALITY CONTROL REPORT (QCR)
 
@@ -8733,6 +8813,7 @@ TEXT_BOX  left:75px; top:67215px; width:70px; height:10px; QA/QC PUNCH LIST
 TEXT_BOX  left:170px; top:67215px; width:290px; height:10px; (Describe QC Punch List items issued, Report QC and QA Punch List items corrected)
 
 TEXT_BOX  left:85px; top:67228px; width:165px; height:10px; No QC Punch List items were issued today
+#PAGE <<<81>>>
 
 TEXT_BOX  left:123px; top:67470px; width:227px; height:12px; CONTRACTORS QUALITY CONTROL REPORT (QCR)
 
@@ -8872,6 +8953,7 @@ TEXT_BOX  left:281px; top:68111px; width:16px; height:8px; DATE
 TEXT_BOX  left:369px; top:68111px; width:94px; height:8px; SUPERINTENDENT'S INITIALS
 
 TEXT_BOX  left:508px; top:68111px; width:16px; height:8px; DATE
+#PAGE <<<82>>>
 
 TEXT_BOX  left:123px; top:68312px; width:227px; height:12px; CONTRACTORS QUALITY CONTROL REPORT (QCR)
 
@@ -8975,6 +9057,7 @@ Abate Building #4258
 Abate Building #4261
 Abate Building #4262
 Abate Building #4263
+#PAGE <<<83>>>
 
 TEXT_BOX  left:123px; top:69154px; width:227px; height:12px; CONTRACTORS QUALITY CONTROL REPORT (QCR)
 
@@ -9125,6 +9208,7 @@ TEXT_BOX  left:281px; top:69795px; width:16px; height:8px; DATE
 TEXT_BOX  left:369px; top:69795px; width:94px; height:8px; SUPERINTENDENT'S INITIALS
 
 TEXT_BOX  left:508px; top:69795px; width:16px; height:8px; DATE
+#PAGE <<<84>>>
 
 TEXT_BOX  left:417px; top:69992px; width:56px; height:8px; REPORT NUMBER
 
@@ -9215,6 +9299,7 @@ TEXT_BOX  left:85px; top:70568px; width:203px; height:10px; No preparatory or in
 TEXT_BOX  left:75px; top:70585px; width:89px; height:10px; ACTIVITY START/FINISH
 
 TEXT_BOX  left:85px; top:70598px; width:167px; height:10px; No activities were started or finished today
+#PAGE <<<85>>>
 
 TEXT_BOX  left:123px; top:70838px; width:227px; height:12px; CONTRACTORS QUALITY CONTROL REPORT (QCR)
 
@@ -9387,6 +9472,7 @@ TEXT_BOX  left:281px; top:71479px; width:16px; height:8px; DATE
 TEXT_BOX  left:369px; top:71479px; width:94px; height:8px; SUPERINTENDENT'S INITIALS
 
 TEXT_BOX  left:508px; top:71479px; width:16px; height:8px; DATE
+#PAGE <<<86>>>
 
 TEXT_BOX  left:417px; top:71676px; width:56px; height:8px; REPORT NUMBER
 
@@ -9475,6 +9561,7 @@ TEXT_BOX  left:95px; top:72237px; width:189px; height:10px; Held subcontractor c
 TEXT_BOX  left:95px; top:72253px; width:446px; height:10px; Received 65% draw ings of storm drain south outfall – scheduled design review  meeting w ith COE and base – Wednesday at 10am
 
 TEXT_BOX  left:95px; top:72270px; width:2px; height:10px;  
+#PAGE <<<87>>>
 
 TEXT_BOX  left:123px; top:72522px; width:227px; height:12px; CONTRACTORS QUALITY CONTROL REPORT (QCR)
 
@@ -9593,6 +9680,7 @@ TEXT_BOX  left:523px; top:73058px; width:19px; height:71px; 10.0
 34.0
 21.0
 139.0
+#PAGE <<<88>>>
 
 TEXT_BOX  left:123px; top:73364px; width:227px; height:12px; CONTRACTORS QUALITY CONTROL REPORT (QCR)
 
@@ -9707,6 +9795,7 @@ TEXT_BOX  left:281px; top:74005px; width:16px; height:8px; DATE
 TEXT_BOX  left:369px; top:74005px; width:94px; height:8px; SUPERINTENDENT'S INITIALS
 
 TEXT_BOX  left:508px; top:74005px; width:16px; height:8px; DATE
+#PAGE <<<89>>>
 
 TEXT_BOX  left:417px; top:74202px; width:56px; height:8px; REPORT NUMBER
 
@@ -9797,6 +9886,7 @@ TEXT_BOX  left:85px; top:74778px; width:203px; height:10px; No preparatory or in
 TEXT_BOX  left:75px; top:74795px; width:89px; height:10px; ACTIVITY START/FINISH
 
 TEXT_BOX  left:85px; top:74808px; width:167px; height:10px; No activities were started or finished today
+#PAGE <<<90>>>
 
 TEXT_BOX  left:123px; top:75048px; width:227px; height:12px; CONTRACTORS QUALITY CONTROL REPORT (QCR)
 
@@ -9970,6 +10060,7 @@ TEXT_BOX  left:281px; top:75689px; width:16px; height:8px; DATE
 TEXT_BOX  left:369px; top:75689px; width:94px; height:8px; SUPERINTENDENT'S INITIALS
 
 TEXT_BOX  left:508px; top:75689px; width:16px; height:8px; DATE
+#PAGE <<<91>>>
 
 TEXT_BOX  left:417px; top:75886px; width:56px; height:8px; REPORT NUMBER
 
@@ -10058,6 +10149,7 @@ TEXT_BOX  left:95px; top:76455px; width:119px; height:10px; Weather conditions w
 TEXT_BOX  left:95px; top:76472px; width:2px; height:10px;  
 
 TEXT_BOX  left:95px; top:76489px; width:163px; height:10px; PREPARATORY AND/OR INITIALS HELD TODAY
+#PAGE <<<92>>>
 
 TEXT_BOX  left:417px; top:76728px; width:56px; height:8px; REPORT NUMBER
 
@@ -10177,6 +10269,7 @@ TEXT_BOX  left:523px; top:77229px; width:19px; height:70px; 10.0
 38.0
 21.0
 145.5
+#PAGE <<<93>>>
 
 TEXT_BOX  left:123px; top:77574px; width:227px; height:12px; CONTRACTORS QUALITY CONTROL REPORT (QCR)
 
@@ -10303,6 +10396,7 @@ TEXT_BOX  left:281px; top:78215px; width:16px; height:8px; DATE
 TEXT_BOX  left:369px; top:78215px; width:94px; height:8px; SUPERINTENDENT'S INITIALS
 
 TEXT_BOX  left:508px; top:78215px; width:16px; height:8px; DATE
+#PAGE <<<94>>>
 
 TEXT_BOX  left:417px; top:78412px; width:56px; height:8px; REPORT NUMBER
 
@@ -10404,6 +10498,7 @@ Demo Building #4258
 Demo Building #4259
 Demo Building #4260
 Demo Building #4261
+#PAGE <<<95>>>
 
 TEXT_BOX  left:417px; top:79254px; width:56px; height:8px; REPORT NUMBER
 
@@ -10551,6 +10646,7 @@ TEXT_BOX  left:281px; top:79899px; width:16px; height:8px; DATE
 TEXT_BOX  left:369px; top:79899px; width:94px; height:8px; SUPERINTENDENT'S INITIALS
 
 TEXT_BOX  left:508px; top:79899px; width:16px; height:8px; DATE
+#PAGE <<<96>>>
 
 TEXT_BOX  left:123px; top:80100px; width:227px; height:12px; CONTRACTORS QUALITY CONTROL REPORT (QCR)
 
@@ -10640,6 +10736,7 @@ TEXT_BOX  left:85px; top:80672px; width:203px; height:10px; No preparatory or in
 TEXT_BOX  left:75px; top:80689px; width:89px; height:10px; ACTIVITY START/FINISH
 
 TEXT_BOX  left:85px; top:80702px; width:167px; height:10px; No activities were started or finished today
+#PAGE <<<97>>>
 
 TEXT_BOX  left:123px; top:80942px; width:227px; height:12px; CONTRACTORS QUALITY CONTROL REPORT (QCR)
 
@@ -10841,6 +10938,7 @@ TEXT_BOX  left:281px; top:81583px; width:16px; height:8px; DATE
 TEXT_BOX  left:369px; top:81583px; width:94px; height:8px; SUPERINTENDENT'S INITIALS
 
 TEXT_BOX  left:508px; top:81583px; width:16px; height:8px; DATE
+#PAGE <<<98>>>
 
 TEXT_BOX  left:123px; top:81784px; width:227px; height:12px; CONTRACTORS QUALITY CONTROL REPORT (QCR)
 
@@ -10935,6 +11033,7 @@ TEXT_BOX  left:170px; top:82357px; width:290px; height:10px; (Describe QC Punch 
 
 TEXT_BOX  left:85px; top:82371px; width:165px; height:24px; No QC Punch List items were issued today
 No Punch List items were corrected today
+#PAGE <<<99>>>
 
 TEXT_BOX  left:123px; top:82626px; width:227px; height:12px; CONTRACTORS QUALITY CONTROL REPORT (QCR)
 
@@ -11092,6 +11191,7 @@ TEXT_BOX  left:281px; top:83267px; width:16px; height:8px; DATE
 TEXT_BOX  left:369px; top:83267px; width:94px; height:8px; SUPERINTENDENT'S INITIALS
 
 TEXT_BOX  left:508px; top:83267px; width:16px; height:8px; DATE
+#PAGE <<<100>>>
 
 TEXT_BOX  left:123px; top:83468px; width:227px; height:12px; CONTRACTORS QUALITY CONTROL REPORT (QCR)
 
@@ -11183,6 +11283,7 @@ TEXT_BOX  left:85px; top:84036px; width:167px; height:10px; No activities were s
 TEXT_BOX  left:75px; top:84053px; width:70px; height:10px; QC REQUIREMENTS
 
 TEXT_BOX  left:85px; top:84067px; width:169px; height:10px; No QC requirements were completed today
+#PAGE <<<101>>>
 
 TEXT_BOX  left:123px; top:84310px; width:227px; height:12px; CONTRACTORS QUALITY CONTROL REPORT (QCR)
 
@@ -11348,6 +11449,7 @@ TEXT_BOX  left:281px; top:84951px; width:16px; height:8px; DATE
 TEXT_BOX  left:369px; top:84951px; width:94px; height:8px; SUPERINTENDENT'S INITIALS
 
 TEXT_BOX  left:508px; top:84951px; width:16px; height:8px; DATE
+#PAGE <<<102>>>
 
 TEXT_BOX  left:123px; top:85152px; width:227px; height:12px; CONTRACTORS QUALITY CONTROL REPORT (QCR)
 
@@ -11442,6 +11544,7 @@ TEXT_BOX  left:75px; top:85742px; width:70px; height:10px; QA/QC PUNCH LIST
 TEXT_BOX  left:170px; top:85742px; width:290px; height:10px; (Describe QC Punch List items issued, Report QC and QA Punch List items corrected)
 
 TEXT_BOX  left:85px; top:85756px; width:165px; height:10px; No QC Punch List items were issued today
+#PAGE <<<103>>>
 
 TEXT_BOX  left:123px; top:85994px; width:227px; height:12px; CONTRACTORS QUALITY CONTROL REPORT (QCR)
 
@@ -11598,6 +11701,7 @@ TEXT_BOX  left:281px; top:86635px; width:16px; height:8px; DATE
 TEXT_BOX  left:369px; top:86635px; width:94px; height:8px; SUPERINTENDENT'S INITIALS
 
 TEXT_BOX  left:508px; top:86635px; width:16px; height:8px; DATE
+#PAGE <<<104>>>
 
 TEXT_BOX  left:417px; top:86832px; width:56px; height:8px; REPORT NUMBER
 
@@ -11689,6 +11793,7 @@ No Punch List items were corrected today
 TEXT_BOX  left:75px; top:87402px; width:278px; height:10px; CONTRACTORS ON SITE (Report first and/or last day contractors w ere on site)
 
 TEXT_BOX  left:85px; top:87416px; width:206px; height:10px; No contractors had their first or last day on site today
+#PAGE <<<105>>>
 
 TEXT_BOX  left:123px; top:87678px; width:227px; height:12px; CONTRACTORS QUALITY CONTROL REPORT (QCR)
 
@@ -11787,6 +11892,7 @@ TEXT_BOX  left:281px; top:88319px; width:16px; height:8px; DATE
 TEXT_BOX  left:369px; top:88319px; width:94px; height:8px; SUPERINTENDENT'S INITIALS
 
 TEXT_BOX  left:508px; top:88319px; width:16px; height:8px; DATE
+#PAGE <<<106>>>
 
 TEXT_BOX  left:417px; top:88516px; width:56px; height:8px; REPORT NUMBER
 
@@ -11877,6 +11983,7 @@ TEXT_BOX  left:85px; top:89088px; width:167px; height:10px; No activities were s
 TEXT_BOX  left:75px; top:89105px; width:70px; height:10px; QC REQUIREMENTS
 
 TEXT_BOX  left:85px; top:89119px; width:169px; height:10px; No QC requirements were completed today
+#PAGE <<<107>>>
 
 TEXT_BOX  left:123px; top:89362px; width:227px; height:12px; CONTRACTORS QUALITY CONTROL REPORT (QCR)
 
@@ -12050,6 +12157,7 @@ TEXT_BOX  left:281px; top:90003px; width:16px; height:8px; DATE
 TEXT_BOX  left:369px; top:90003px; width:94px; height:8px; SUPERINTENDENT'S INITIALS
 
 TEXT_BOX  left:508px; top:90003px; width:16px; height:8px; DATE
+#PAGE <<<108>>>
 
 TEXT_BOX  left:123px; top:90204px; width:227px; height:12px; CONTRACTORS QUALITY CONTROL REPORT (QCR)
 
@@ -12138,6 +12246,7 @@ TEXT_BOX  left:85px; top:90767px; width:203px; height:10px; No preparatory or in
 TEXT_BOX  left:75px; top:90784px; width:89px; height:10px; ACTIVITY START/FINISH
 
 TEXT_BOX  left:85px; top:90798px; width:167px; height:10px; No activities were started or finished today
+#PAGE <<<109>>>
 
 TEXT_BOX  left:123px; top:91046px; width:227px; height:12px; CONTRACTORS QUALITY CONTROL REPORT (QCR)
 
@@ -12310,6 +12419,7 @@ TEXT_BOX  left:281px; top:91687px; width:16px; height:8px; DATE
 TEXT_BOX  left:369px; top:91687px; width:94px; height:8px; SUPERINTENDENT'S INITIALS
 
 TEXT_BOX  left:508px; top:91687px; width:16px; height:8px; DATE
+#PAGE <<<110>>>
 
 TEXT_BOX  left:123px; top:91888px; width:227px; height:12px; CONTRACTORS QUALITY CONTROL REPORT (QCR)
 
@@ -12398,6 +12508,7 @@ TEXT_BOX  left:85px; top:92434px; width:203px; height:10px; No preparatory or in
 TEXT_BOX  left:75px; top:92451px; width:89px; height:10px; ACTIVITY START/FINISH
 
 TEXT_BOX  left:85px; top:92465px; width:167px; height:10px; No activities were started or finished today
+#PAGE <<<111>>>
 
 TEXT_BOX  left:123px; top:92730px; width:227px; height:12px; CONTRACTORS QUALITY CONTROL REPORT (QCR)
 
@@ -12554,6 +12665,7 @@ TEXT_BOX  left:281px; top:93371px; width:16px; height:8px; DATE
 TEXT_BOX  left:369px; top:93371px; width:94px; height:8px; SUPERINTENDENT'S INITIALS
 
 TEXT_BOX  left:508px; top:93371px; width:16px; height:8px; DATE
+#PAGE <<<112>>>
 
 TEXT_BOX  left:417px; top:93568px; width:56px; height:8px; REPORT NUMBER
 
@@ -12643,6 +12755,7 @@ TEXT_BOX  left:75px; top:94155px; width:74px; height:10px; PREP/INITIAL DATES
 TEXT_BOX  left:170px; top:94155px; width:185px; height:10px; (Preparatory and initial dates held and advance notice)
 
 TEXT_BOX  left:85px; top:94169px; width:203px; height:10px; No preparatory or initial inspections were held today
+#PAGE <<<113>>>
 
 TEXT_BOX  left:123px; top:94414px; width:227px; height:12px; CONTRACTORS QUALITY CONTROL REPORT (QCR)
 
@@ -12832,6 +12945,7 @@ TEXT_BOX  left:281px; top:95055px; width:16px; height:8px; DATE
 TEXT_BOX  left:369px; top:95055px; width:94px; height:8px; SUPERINTENDENT'S INITIALS
 
 TEXT_BOX  left:508px; top:95055px; width:16px; height:8px; DATE
+#PAGE <<<114>>>
 
 TEXT_BOX  left:123px; top:95256px; width:227px; height:12px; CONTRACTORS QUALITY CONTROL REPORT (QCR)
 
@@ -12932,6 +13046,7 @@ TEXT_BOX  left:170px; top:95816px; width:290px; height:10px; (Describe QC Punch 
 
 TEXT_BOX  left:85px; top:95829px; width:165px; height:24px; No QC Punch List items were issued today
 No Punch List items were corrected today
+#PAGE <<<115>>>
 
 TEXT_BOX  left:123px; top:96098px; width:227px; height:12px; CONTRACTORS QUALITY CONTROL REPORT (QCR)
 
@@ -13053,6 +13168,7 @@ TEXT_BOX  left:281px; top:96739px; width:16px; height:8px; DATE
 TEXT_BOX  left:369px; top:96739px; width:94px; height:8px; SUPERINTENDENT'S INITIALS
 
 TEXT_BOX  left:508px; top:96739px; width:16px; height:8px; DATE
+#PAGE <<<116>>>
 
 TEXT_BOX  left:123px; top:96940px; width:227px; height:12px; CONTRACTORS QUALITY CONTROL REPORT (QCR)
 
@@ -13148,6 +13264,7 @@ TEXT_BOX  left:156px; top:97505px; width:70px; height:20px; Description
 Demo Building #4307
 
 TEXT_BOX  left:85px; top:97529px; width:126px; height:10px; No activities were finished today
+#PAGE <<<117>>>
 
 TEXT_BOX  left:123px; top:97782px; width:227px; height:12px; CONTRACTORS QUALITY CONTROL REPORT (QCR)
 
@@ -13304,6 +13421,7 @@ TEXT_BOX  left:281px; top:98423px; width:16px; height:8px; DATE
 TEXT_BOX  left:369px; top:98423px; width:94px; height:8px; SUPERINTENDENT'S INITIALS
 
 TEXT_BOX  left:508px; top:98423px; width:16px; height:8px; DATE
+#PAGE <<<118>>>
 
 TEXT_BOX  left:123px; top:98624px; width:227px; height:12px; CONTRACTORS QUALITY CONTROL REPORT (QCR)
 
@@ -13403,6 +13521,7 @@ TEXT_BOX  left:75px; top:99209px; width:70px; height:10px; QA/QC PUNCH LIST
 TEXT_BOX  left:170px; top:99209px; width:290px; height:10px; (Describe QC Punch List items issued, Report QC and QA Punch List items corrected)
 
 TEXT_BOX  left:85px; top:99223px; width:165px; height:10px; No QC Punch List items were issued today
+#PAGE <<<119>>>
 
 TEXT_BOX  left:123px; top:99466px; width:227px; height:12px; CONTRACTORS QUALITY CONTROL REPORT (QCR)
 
@@ -13559,6 +13678,7 @@ TEXT_BOX  left:281px; top:100107px; width:16px; height:8px; DATE
 TEXT_BOX  left:369px; top:100107px; width:94px; height:8px; SUPERINTENDENT'S INITIALS
 
 TEXT_BOX  left:508px; top:100107px; width:16px; height:8px; DATE
+#PAGE <<<120>>>
 
 TEXT_BOX  left:417px; top:100304px; width:56px; height:8px; REPORT NUMBER
 
@@ -13642,6 +13762,7 @@ Rock Crusher Inc - last day
 
 TEXT_BOX  left:95px; top:100856px; width:95px; height:18px; RFI &amp; RFP STATUS UPDATE
 None today
+#PAGE <<<121>>>
 
 TEXT_BOX  left:123px; top:101150px; width:227px; height:12px; CONTRACTORS QUALITY CONTROL REPORT (QCR)
 
@@ -13820,6 +13941,7 @@ TEXT_BOX  left:527px; top:101604px; width:14px; height:142px; 10.5
 5.0
 4.0
 99.5
+#PAGE <<<122>>>
 
 TEXT_BOX  left:123px; top:101992px; width:227px; height:12px; CONTRACTORS QUALITY CONTROL REPORT (QCR)
 
@@ -13861,6 +13983,7 @@ TEXT_BOX  left:281px; top:102633px; width:16px; height:8px; DATE
 TEXT_BOX  left:369px; top:102633px; width:94px; height:8px; SUPERINTENDENT'S INITIALS
 
 TEXT_BOX  left:508px; top:102633px; width:16px; height:8px; DATE
+#PAGE <<<123>>>
 
 TEXT_BOX  left:417px; top:102830px; width:56px; height:8px; REPORT NUMBER
 
@@ -13954,6 +14077,7 @@ Install Main Gas Line
 Install Main Electrical Distri
 
 TEXT_BOX  left:85px; top:103433px; width:126px; height:10px; No activities were finished today
+#PAGE <<<124>>>
 
 TEXT_BOX  left:123px; top:103676px; width:227px; height:12px; CONTRACTORS QUALITY CONTROL REPORT (QCR)
 
@@ -14111,6 +14235,7 @@ TEXT_BOX  left:281px; top:104317px; width:16px; height:8px; DATE
 TEXT_BOX  left:369px; top:104317px; width:94px; height:8px; SUPERINTENDENT'S INITIALS
 
 TEXT_BOX  left:508px; top:104317px; width:16px; height:8px; DATE
+#PAGE <<<125>>>
 
 TEXT_BOX  left:123px; top:104518px; width:227px; height:12px; CONTRACTORS QUALITY CONTROL REPORT (QCR)
 
@@ -14211,6 +14336,7 @@ Procure Termiticide - Bungalow
 Procure Termiticide - Charles
 Procure Termiticide - Baxter
 Revise All other Work
+#PAGE <<<126>>>
 
 TEXT_BOX  left:123px; top:105360px; width:227px; height:12px; CONTRACTORS QUALITY CONTROL REPORT (QCR)
 
@@ -14352,6 +14478,7 @@ TEXT_BOX  left:281px; top:106001px; width:16px; height:8px; DATE
 TEXT_BOX  left:369px; top:106001px; width:94px; height:8px; SUPERINTENDENT'S INITIALS
 
 TEXT_BOX  left:508px; top:106001px; width:16px; height:8px; DATE
+#PAGE <<<127>>>
 
 TEXT_BOX  left:123px; top:106202px; width:227px; height:12px; CONTRACTORS QUALITY CONTROL REPORT (QCR)
 
@@ -14440,6 +14567,7 @@ TEXT_BOX  left:85px; top:106762px; width:167px; height:10px; No activities were 
 TEXT_BOX  left:75px; top:106779px; width:70px; height:10px; QC REQUIREMENTS
 
 TEXT_BOX  left:85px; top:106792px; width:169px; height:10px; No QC requirements were completed today
+#PAGE <<<128>>>
 
 TEXT_BOX  left:123px; top:107044px; width:227px; height:12px; CONTRACTORS QUALITY CONTROL REPORT (QCR)
 
@@ -14620,6 +14748,7 @@ TEXT_BOX  left:281px; top:107685px; width:16px; height:8px; DATE
 TEXT_BOX  left:369px; top:107685px; width:94px; height:8px; SUPERINTENDENT'S INITIALS
 
 TEXT_BOX  left:508px; top:107685px; width:16px; height:8px; DATE
+#PAGE <<<129>>>
 
 TEXT_BOX  left:123px; top:107886px; width:227px; height:12px; CONTRACTORS QUALITY CONTROL REPORT (QCR)
 
@@ -14712,6 +14841,7 @@ TEXT_BOX  left:75px; top:108468px; width:70px; height:10px; QA/QC PUNCH LIST
 TEXT_BOX  left:170px; top:108468px; width:290px; height:10px; (Describe QC Punch List items issued, Report QC and QA Punch List items corrected)
 
 TEXT_BOX  left:85px; top:108481px; width:165px; height:10px; No QC Punch List items were issued today
+#PAGE <<<130>>>
 
 TEXT_BOX  left:123px; top:108728px; width:227px; height:12px; CONTRACTORS QUALITY CONTROL REPORT (QCR)
 
@@ -14884,6 +15014,7 @@ TEXT_BOX  left:281px; top:109369px; width:16px; height:8px; DATE
 TEXT_BOX  left:369px; top:109369px; width:94px; height:8px; SUPERINTENDENT'S INITIALS
 
 TEXT_BOX  left:508px; top:109369px; width:16px; height:8px; DATE
+#PAGE <<<131>>>
 
 TEXT_BOX  left:123px; top:109570px; width:227px; height:12px; CONTRACTORS QUALITY CONTROL REPORT (QCR)
 
@@ -14973,6 +15104,7 @@ TEXT_BOX  left:85px; top:110130px; width:167px; height:10px; No activities were 
 TEXT_BOX  left:75px; top:110147px; width:70px; height:10px; QC REQUIREMENTS
 
 TEXT_BOX  left:85px; top:110160px; width:169px; height:10px; No QC requirements were completed today
+#PAGE <<<132>>>
 
 TEXT_BOX  left:123px; top:110412px; width:227px; height:12px; CONTRACTORS QUALITY CONTROL REPORT (QCR)
 
@@ -15142,6 +15274,7 @@ TEXT_BOX  left:281px; top:111053px; width:16px; height:8px; DATE
 TEXT_BOX  left:369px; top:111053px; width:94px; height:8px; SUPERINTENDENT'S INITIALS
 
 TEXT_BOX  left:508px; top:111053px; width:16px; height:8px; DATE
+#PAGE <<<133>>>
 
 TEXT_BOX  left:123px; top:111254px; width:227px; height:12px; CONTRACTORS QUALITY CONTROL REPORT (QCR)
 
@@ -15236,6 +15369,7 @@ TEXT_BOX  left:170px; top:111827px; width:290px; height:10px; (Describe QC Punch
 
 TEXT_BOX  left:85px; top:111841px; width:165px; height:24px; No QC Punch List items were issued today
 No Punch List items were corrected today
+#PAGE <<<134>>>
 
 TEXT_BOX  left:123px; top:112096px; width:227px; height:12px; CONTRACTORS QUALITY CONTROL REPORT (QCR)
 
@@ -15362,6 +15496,7 @@ TEXT_BOX  left:281px; top:112737px; width:16px; height:8px; DATE
 TEXT_BOX  left:369px; top:112737px; width:94px; height:8px; SUPERINTENDENT'S INITIALS
 
 TEXT_BOX  left:508px; top:112737px; width:16px; height:8px; DATE
+#PAGE <<<135>>>
 
 TEXT_BOX  left:417px; top:112934px; width:56px; height:8px; REPORT NUMBER
 
@@ -15464,6 +15599,7 @@ Survey &amp; Building Layout
 Duplex #76 Total Durration
 Survey &amp; Building Layout
 Duplex #77 Total Duration
+#PAGE <<<136>>>
 
 TEXT_BOX  left:123px; top:113780px; width:228px; height:12px; CONTRACTORS QUALITY CONTROL REPORT (QCR)
 
@@ -15617,6 +15753,7 @@ TEXT_BOX  left:281px; top:114422px; width:16px; height:8px; DATE
 TEXT_BOX  left:370px; top:114422px; width:94px; height:8px; SUPERINTENDENT'S INITIALS
 
 TEXT_BOX  left:509px; top:114422px; width:16px; height:8px; DATE
+#PAGE <<<137>>>
 
 TEXT_BOX  left:123px; top:114622px; width:228px; height:12px; CONTRACTORS QUALITY CONTROL REPORT (QCR)
 
@@ -15699,6 +15836,7 @@ None today
 
 TEXT_BOX  left:95px; top:115171px; width:91px; height:18px; RFI&amp;RFP STATUS UPDATE
 No RFI
+#PAGE <<<138>>>
 
 TEXT_BOX  left:123px; top:115464px; width:228px; height:12px; CONTRACTORS QUALITY CONTROL REPORT (QCR)
 
@@ -15861,6 +15999,7 @@ TEXT_BOX  left:509px; top:116039px; width:33px; height:20px; Operating
 Hours
 
 TEXT_BOX  left:528px; top:116063px; width:14px; height:10px; 10.5
+#PAGE <<<139>>>
 
 TEXT_BOX  left:123px; top:116306px; width:228px; height:12px; CONTRACTORS QUALITY CONTROL REPORT (QCR)
 
@@ -15967,6 +16106,7 @@ TEXT_BOX  left:281px; top:116948px; width:16px; height:8px; DATE
 TEXT_BOX  left:370px; top:116948px; width:94px; height:8px; SUPERINTENDENT'S INITIALS
 
 TEXT_BOX  left:509px; top:116948px; width:16px; height:8px; DATE
+#PAGE <<<140>>>
 
 TEXT_BOX  left:123px; top:117148px; width:227px; height:12px; CONTRACTORS QUALITY CONTROL REPORT (QCR)
 
@@ -16055,6 +16195,7 @@ TEXT_BOX  left:75px; top:117714px; width:74px; height:10px; PREP/INITIAL DATES
 TEXT_BOX  left:170px; top:117714px; width:185px; height:10px; (Preparatory and initial dates held and advance notice)
 
 TEXT_BOX  left:85px; top:117728px; width:203px; height:10px; No preparatory or initial inspections were held today
+#PAGE <<<141>>>
 
 TEXT_BOX  left:123px; top:117990px; width:227px; height:12px; CONTRACTORS QUALITY CONTROL REPORT (QCR)
 
@@ -16243,6 +16384,7 @@ TEXT_BOX  left:523px; top:118406px; width:19px; height:172px; 8.0
 4.0
 4.0
 133.3
+#PAGE <<<142>>>
 
 TEXT_BOX  left:123px; top:118832px; width:227px; height:12px; CONTRACTORS QUALITY CONTROL REPORT (QCR)
 
@@ -16284,6 +16426,7 @@ TEXT_BOX  left:281px; top:119473px; width:16px; height:8px; DATE
 TEXT_BOX  left:369px; top:119473px; width:94px; height:8px; SUPERINTENDENT'S INITIALS
 
 TEXT_BOX  left:508px; top:119473px; width:16px; height:8px; DATE
+#PAGE <<<143>>>
 
 TEXT_BOX  left:417px; top:119670px; width:56px; height:8px; REPORT NUMBER
 
@@ -16370,6 +16513,7 @@ None today
 
 TEXT_BOX  left:95px; top:120231px; width:91px; height:18px; RFI&amp;RFP STATUS UPDATE
 No RFI
+#PAGE <<<144>>>
 
 TEXT_BOX  left:123px; top:120516px; width:228px; height:12px; CONTRACTORS QUALITY CONTROL REPORT (QCR)
 
@@ -16538,6 +16682,7 @@ TEXT_BOX  left:528px; top:121085px; width:14px; height:40px; 10.0
 10.0
 20.0
 8.0
+#PAGE <<<145>>>
 
 TEXT_BOX  left:123px; top:121358px; width:228px; height:12px; CONTRACTORS QUALITY CONTROL REPORT (QCR)
 
@@ -16616,6 +16761,7 @@ TEXT_BOX  left:281px; top:122000px; width:16px; height:8px; DATE
 TEXT_BOX  left:370px; top:122000px; width:94px; height:8px; SUPERINTENDENT'S INITIALS
 
 TEXT_BOX  left:509px; top:122000px; width:16px; height:8px; DATE
+#PAGE <<<146>>>
 
 TEXT_BOX  left:123px; top:122200px; width:228px; height:12px; CONTRACTORS QUALITY CONTROL REPORT (QCR)
 
@@ -16712,6 +16858,7 @@ P51660
 TEXT_BOX  left:156px; top:122782px; width:72px; height:30px; Description
 Abate Building #4311
 Demo Building #4320
+#PAGE <<<147>>>
 
 TEXT_BOX  left:417px; top:123038px; width:56px; height:8px; REPORT NUMBER
 
@@ -16871,6 +17018,7 @@ TEXT_BOX  left:281px; top:123684px; width:16px; height:8px; DATE
 TEXT_BOX  left:370px; top:123684px; width:94px; height:8px; SUPERINTENDENT'S INITIALS
 
 TEXT_BOX  left:509px; top:123684px; width:16px; height:8px; DATE
+#PAGE <<<148>>>
 
 TEXT_BOX  left:123px; top:123884px; width:227px; height:12px; CONTRACTORS QUALITY CONTROL REPORT (QCR)
 
@@ -16964,6 +17112,7 @@ No Punch List items were corrected today
 TEXT_BOX  left:75px; top:124467px; width:278px; height:10px; CONTRACTORS ON SITE (Report first and/or last day contractors w ere on site)
 
 TEXT_BOX  left:85px; top:124481px; width:206px; height:10px; No contractors had their first or last day on site today
+#PAGE <<<149>>>
 
 TEXT_BOX  left:123px; top:124726px; width:227px; height:12px; CONTRACTORS QUALITY CONTROL REPORT (QCR)
 
@@ -17074,6 +17223,7 @@ TEXT_BOX  left:281px; top:125367px; width:16px; height:8px; DATE
 TEXT_BOX  left:369px; top:125367px; width:94px; height:8px; SUPERINTENDENT'S INITIALS
 
 TEXT_BOX  left:508px; top:125367px; width:16px; height:8px; DATE
+#PAGE <<<150>>>
 
 TEXT_BOX  left:123px; top:125568px; width:227px; height:12px; CONTRACTORS QUALITY CONTROL REPORT (QCR)
 
@@ -17156,6 +17306,7 @@ Parson's staker
 
 TEXT_BOX  left:95px; top:126133px; width:91px; height:18px; RFI&amp;RFP STATUS UPDATE
 No RFI
+#PAGE <<<151>>>
 
 TEXT_BOX  left:123px; top:126410px; width:227px; height:12px; CONTRACTORS QUALITY CONTROL REPORT (QCR)
 
@@ -17346,6 +17497,7 @@ TEXT_BOX  left:527px; top:126857px; width:14px; height:162px; 10.5
 4.0
 3.0
 9.0
+#PAGE <<<152>>>
 
 TEXT_BOX  left:123px; top:127252px; width:227px; height:12px; CONTRACTORS QUALITY CONTROL REPORT (QCR)
 
@@ -17395,6 +17547,7 @@ TEXT_BOX  left:281px; top:127893px; width:16px; height:8px; DATE
 TEXT_BOX  left:369px; top:127893px; width:94px; height:8px; SUPERINTENDENT'S INITIALS
 
 TEXT_BOX  left:508px; top:127893px; width:16px; height:8px; DATE
+#PAGE <<<153>>>
 
 TEXT_BOX  left:123px; top:128094px; width:227px; height:12px; CONTRACTORS QUALITY CONTROL REPORT (QCR)
 
@@ -17483,6 +17636,7 @@ TEXT_BOX  left:95px; top:128667px; width:175px; height:18px; CONTRACTORS FIRST A
 None today
 
 TEXT_BOX  left:95px; top:128693px; width:95px; height:10px; RFI &amp; RFP STATUS UPDATE
+#PAGE <<<154>>>
 
 TEXT_BOX  left:417px; top:128932px; width:56px; height:8px; REPORT NUMBER
 
@@ -17667,6 +17821,7 @@ TEXT_BOX  left:527px; top:129420px; width:14px; height:132px; 10.5
 9.0
 4.0
 4.0
+#PAGE <<<155>>>
 
 TEXT_BOX  left:123px; top:129778px; width:227px; height:12px; CONTRACTORS QUALITY CONTROL REPORT (QCR)
 
@@ -17725,6 +17880,7 @@ TEXT_BOX  left:281px; top:130419px; width:16px; height:8px; DATE
 TEXT_BOX  left:369px; top:130419px; width:94px; height:8px; SUPERINTENDENT'S INITIALS
 
 TEXT_BOX  left:508px; top:130419px; width:16px; height:8px; DATE
+#PAGE <<<156>>>
 
 TEXT_BOX  left:123px; top:130620px; width:228px; height:12px; CONTRACTORS QUALITY CONTROL REPORT (QCR)
 
@@ -17821,6 +17977,7 @@ P51840
 TEXT_BOX  left:156px; top:131202px; width:89px; height:30px; Description
 Chlordane Handling #4267
 Chlordane Handling #4268
+#PAGE <<<157>>>
 
 TEXT_BOX  left:417px; top:131458px; width:56px; height:8px; REPORT NUMBER
 
@@ -18007,6 +18164,7 @@ TEXT_BOX  left:528px; top:131933px; width:14px; height:142px; 10.5
 4.0
 9.0
 89.0
+#PAGE <<<158>>>
 
 TEXT_BOX  left:123px; top:132304px; width:228px; height:12px; CONTRACTORS QUALITY CONTROL REPORT (QCR)
 
@@ -18050,6 +18208,7 @@ TEXT_BOX  left:281px; top:132946px; width:16px; height:8px; DATE
 TEXT_BOX  left:370px; top:132946px; width:94px; height:8px; SUPERINTENDENT'S INITIALS
 
 TEXT_BOX  left:509px; top:132946px; width:16px; height:8px; DATE
+#PAGE <<<159>>>
 
 TEXT_BOX  left:123px; top:133146px; width:227px; height:12px; CONTRACTORS QUALITY CONTROL REPORT (QCR)
 
@@ -18137,6 +18296,7 @@ TEXT_BOX  left:75px; top:133712px; width:74px; height:10px; PREP/INITIAL DATES
 TEXT_BOX  left:170px; top:133712px; width:185px; height:10px; (Preparatory and initial dates held and advance notice)
 
 TEXT_BOX  left:85px; top:133726px; width:203px; height:10px; No preparatory or initial inspections were held today
+#PAGE <<<160>>>
 
 TEXT_BOX  left:123px; top:133988px; width:227px; height:12px; CONTRACTORS QUALITY CONTROL REPORT (QCR)
 
@@ -18338,6 +18498,7 @@ TEXT_BOX  left:281px; top:134629px; width:16px; height:8px; DATE
 TEXT_BOX  left:369px; top:134629px; width:94px; height:8px; SUPERINTENDENT'S INITIALS
 
 TEXT_BOX  left:508px; top:134629px; width:16px; height:8px; DATE
+#PAGE <<<161>>>
 
 TEXT_BOX  left:417px; top:134826px; width:56px; height:8px; REPORT NUMBER
 
@@ -18427,6 +18588,7 @@ TEXT_BOX  left:170px; top:135378px; width:290px; height:10px; (Describe QC Punch
 
 TEXT_BOX  left:85px; top:135391px; width:165px; height:24px; No QC Punch List items were issued today
 No Punch List items were corrected today
+#PAGE <<<162>>>
 
 TEXT_BOX  left:123px; top:135672px; width:227px; height:12px; CONTRACTORS QUALITY CONTROL REPORT (QCR)
 
@@ -18541,6 +18703,7 @@ TEXT_BOX  left:281px; top:136313px; width:16px; height:8px; DATE
 TEXT_BOX  left:369px; top:136313px; width:94px; height:8px; SUPERINTENDENT'S INITIALS
 
 TEXT_BOX  left:508px; top:136313px; width:16px; height:8px; DATE
+#PAGE <<<163>>>
 
 TEXT_BOX  left:123px; top:136514px; width:227px; height:12px; CONTRACTORS QUALITY CONTROL REPORT (QCR)
 
@@ -18630,6 +18793,7 @@ TEXT_BOX  left:85px; top:137069px; width:203px; height:10px; No preparatory or i
 TEXT_BOX  left:75px; top:137086px; width:89px; height:10px; ACTIVITY START/FINISH
 
 TEXT_BOX  left:85px; top:137099px; width:167px; height:10px; No activities were started or finished today
+#PAGE <<<164>>>
 
 TEXT_BOX  left:123px; top:137356px; width:227px; height:12px; CONTRACTORS QUALITY CONTROL REPORT (QCR)
 
@@ -18819,6 +18983,7 @@ TEXT_BOX  left:281px; top:137997px; width:16px; height:8px; DATE
 TEXT_BOX  left:369px; top:137997px; width:94px; height:8px; SUPERINTENDENT'S INITIALS
 
 TEXT_BOX  left:508px; top:137997px; width:16px; height:8px; DATE
+#PAGE <<<165>>>
 
 TEXT_BOX  left:123px; top:138198px; width:227px; height:12px; CONTRACTORS QUALITY CONTROL REPORT (QCR)
 
@@ -18905,6 +19070,7 @@ TEXT_BOX  left:75px; top:138773px; width:74px; height:10px; PREP/INITIAL DATES
 TEXT_BOX  left:170px; top:138773px; width:185px; height:10px; (Preparatory and initial dates held and advance notice)
 
 TEXT_BOX  left:85px; top:138787px; width:203px; height:10px; No preparatory or initial inspections were held today
+#PAGE <<<166>>>
 
 TEXT_BOX  left:123px; top:139040px; width:227px; height:12px; CONTRACTORS QUALITY CONTROL REPORT (QCR)
 
@@ -19086,6 +19252,7 @@ TEXT_BOX  left:281px; top:139681px; width:16px; height:8px; DATE
 TEXT_BOX  left:369px; top:139681px; width:94px; height:8px; SUPERINTENDENT'S INITIALS
 
 TEXT_BOX  left:508px; top:139681px; width:16px; height:8px; DATE
+#PAGE <<<167>>>
 
 TEXT_BOX  left:123px; top:139882px; width:227px; height:12px; CONTRACTORS QUALITY CONTROL REPORT (QCR)
 
@@ -19175,6 +19342,7 @@ TEXT_BOX  left:75px; top:140465px; width:74px; height:10px; PREP/INITIAL DATES
 TEXT_BOX  left:170px; top:140465px; width:185px; height:10px; (Preparatory and initial dates held and advance notice)
 
 TEXT_BOX  left:85px; top:140479px; width:203px; height:10px; No preparatory or initial inspections were held today
+#PAGE <<<168>>>
 
 TEXT_BOX  left:417px; top:140720px; width:56px; height:8px; REPORT NUMBER
 
@@ -19321,6 +19489,7 @@ TEXT_BOX  left:523px; top:141191px; width:19px; height:111px; 147.0
 19.0
 58.5
 285.0
+#PAGE <<<169>>>
 
 TEXT_BOX  left:123px; top:141566px; width:227px; height:12px; CONTRACTORS QUALITY CONTROL REPORT (QCR)
 
@@ -19427,6 +19596,7 @@ TEXT_BOX  left:281px; top:142207px; width:16px; height:8px; DATE
 TEXT_BOX  left:369px; top:142207px; width:94px; height:8px; SUPERINTENDENT'S INITIALS
 
 TEXT_BOX  left:508px; top:142207px; width:16px; height:8px; DATE
+#PAGE <<<170>>>
 
 TEXT_BOX  left:123px; top:142408px; width:227px; height:12px; CONTRACTORS QUALITY CONTROL REPORT (QCR)
 
@@ -19525,6 +19695,7 @@ Abate Building #4325
 Chlordane Handling #4308
 Chlordane Handling #4309
 Excavation
+#PAGE <<<171>>>
 
 TEXT_BOX  left:417px; top:143246px; width:56px; height:8px; REPORT NUMBER
 
@@ -19665,6 +19836,7 @@ TEXT_BOX  left:523px; top:143740px; width:19px; height:81px; 128.0
 10.0
 38.5
 206.5
+#PAGE <<<172>>>
 
 TEXT_BOX  left:123px; top:144092px; width:227px; height:12px; CONTRACTORS QUALITY CONTROL REPORT (QCR)
 
@@ -19763,6 +19935,7 @@ TEXT_BOX  left:281px; top:144733px; width:16px; height:8px; DATE
 TEXT_BOX  left:369px; top:144733px; width:94px; height:8px; SUPERINTENDENT'S INITIALS
 
 TEXT_BOX  left:508px; top:144733px; width:16px; height:8px; DATE
+#PAGE <<<173>>>
 
 TEXT_BOX  left:123px; top:144934px; width:227px; height:12px; CONTRACTORS QUALITY CONTROL REPORT (QCR)
 
@@ -19858,6 +20031,7 @@ P51920
 TEXT_BOX  left:156px; top:145516px; width:88px; height:30px; Description
 Chlordane Handling #4310
 Chlordane Handling #4311
+#PAGE <<<174>>>
 
 TEXT_BOX  left:417px; top:145772px; width:56px; height:8px; REPORT NUMBER
 
@@ -20003,6 +20177,7 @@ TEXT_BOX  left:523px; top:146317px; width:19px; height:71px; 120.0
 8.0
 6.0
 6.0
+#PAGE <<<175>>>
 
 TEXT_BOX  left:123px; top:146618px; width:227px; height:12px; CONTRACTORS QUALITY CONTROL REPORT (QCR)
 
@@ -20081,6 +20256,7 @@ TEXT_BOX  left:281px; top:147259px; width:16px; height:8px; DATE
 TEXT_BOX  left:369px; top:147259px; width:94px; height:8px; SUPERINTENDENT'S INITIALS
 
 TEXT_BOX  left:508px; top:147259px; width:16px; height:8px; DATE
+#PAGE <<<176>>>
 
 TEXT_BOX  left:123px; top:147460px; width:227px; height:12px; CONTRACTORS QUALITY CONTROL REPORT (QCR)
 
@@ -20179,6 +20355,7 @@ Chlordane Handling #4316
 Chlordane Handling #4317
 Chlordane Handling #4318
 Chlordane Handling #4319
+#PAGE <<<177>>>
 
 TEXT_BOX  left:417px; top:148298px; width:56px; height:8px; REPORT NUMBER
 
@@ -20339,6 +20516,7 @@ TEXT_BOX  left:508px; top:148880px; width:33px; height:20px; Operating
 Hours
 
 TEXT_BOX  left:527px; top:148904px; width:14px; height:10px; 10.0
+#PAGE <<<178>>>
 
 TEXT_BOX  left:123px; top:149144px; width:227px; height:12px; CONTRACTORS QUALITY CONTROL REPORT (QCR)
 
@@ -20428,6 +20606,7 @@ TEXT_BOX  left:281px; top:149785px; width:16px; height:8px; DATE
 TEXT_BOX  left:369px; top:149785px; width:94px; height:8px; SUPERINTENDENT'S INITIALS
 
 TEXT_BOX  left:508px; top:149785px; width:16px; height:8px; DATE
+#PAGE <<<179>>>
 
 TEXT_BOX  left:123px; top:149986px; width:227px; height:12px; CONTRACTORS QUALITY CONTROL REPORT (QCR)
 
@@ -20515,6 +20694,7 @@ TEXT_BOX  left:85px; top:150541px; width:203px; height:10px; No preparatory or i
 TEXT_BOX  left:75px; top:150558px; width:89px; height:10px; ACTIVITY START/FINISH
 
 TEXT_BOX  left:85px; top:150571px; width:167px; height:10px; No activities were started or finished today
+#PAGE <<<180>>>
 
 TEXT_BOX  left:123px; top:150828px; width:227px; height:12px; CONTRACTORS QUALITY CONTROL REPORT (QCR)
 
@@ -20723,6 +20903,7 @@ TEXT_BOX  left:281px; top:151469px; width:16px; height:8px; DATE
 TEXT_BOX  left:369px; top:151469px; width:94px; height:8px; SUPERINTENDENT'S INITIALS
 
 TEXT_BOX  left:508px; top:151469px; width:16px; height:8px; DATE
+#PAGE <<<181>>>
 
 TEXT_BOX  left:123px; top:151670px; width:227px; height:12px; CONTRACTORS QUALITY CONTROL REPORT (QCR)
 
@@ -20813,6 +20994,7 @@ Resiserv
 
 TEXT_BOX  left:95px; top:152252px; width:91px; height:18px; RFI&amp;RFP STATUS UPDATE
 No RFI w ritten
+#PAGE <<<182>>>
 
 TEXT_BOX  left:123px; top:152512px; width:227px; height:12px; CONTRACTORS QUALITY CONTROL REPORT (QCR)
 
@@ -21004,6 +21186,7 @@ TEXT_BOX  left:523px; top:152979px; width:19px; height:142px; 10.5
 TEXT_BOX  left:417px; top:152918px; width:16px; height:10px; Total
 
 TEXT_BOX  left:417px; top:153111px; width:16px; height:10px; Total
+#PAGE <<<183>>>
 
 TEXT_BOX  left:123px; top:153354px; width:227px; height:12px; CONTRACTORS QUALITY CONTROL REPORT (QCR)
 
@@ -21045,6 +21228,7 @@ TEXT_BOX  left:281px; top:153995px; width:16px; height:8px; DATE
 TEXT_BOX  left:369px; top:153995px; width:94px; height:8px; SUPERINTENDENT'S INITIALS
 
 TEXT_BOX  left:508px; top:153995px; width:16px; height:8px; DATE
+#PAGE <<<184>>>
 
 TEXT_BOX  left:123px; top:154196px; width:227px; height:12px; CONTRACTORS QUALITY CONTROL REPORT (QCR)
 
@@ -21135,6 +21319,7 @@ None today
 
 TEXT_BOX  left:95px; top:154786px; width:124px; height:18px; RFI&amp;RFP STATUS UPDATE
 Need RFI's on cure and form release
+#PAGE <<<185>>>
 
 TEXT_BOX  left:123px; top:155038px; width:227px; height:12px; CONTRACTORS QUALITY CONTROL REPORT (QCR)
 
@@ -21321,6 +21506,7 @@ TEXT_BOX  left:527px; top:155532px; width:14px; height:122px; 10.5
 10.0
 6.0
 10.0
+#PAGE <<<186>>>
 
 TEXT_BOX  left:123px; top:155880px; width:227px; height:12px; CONTRACTORS QUALITY CONTROL REPORT (QCR)
 
@@ -21382,6 +21568,7 @@ TEXT_BOX  left:281px; top:156521px; width:16px; height:8px; DATE
 TEXT_BOX  left:369px; top:156521px; width:94px; height:8px; SUPERINTENDENT'S INITIALS
 
 TEXT_BOX  left:508px; top:156521px; width:16px; height:8px; DATE
+#PAGE <<<187>>>
 
 TEXT_BOX  left:123px; top:156722px; width:227px; height:12px; CONTRACTORS QUALITY CONTROL REPORT (QCR)
 
@@ -21471,6 +21658,7 @@ TEXT_BOX  left:170px; top:157270px; width:290px; height:10px; (Describe QC Punch
 
 TEXT_BOX  left:85px; top:157283px; width:165px; height:24px; No QC Punch List items were issued today
 No Punch List items were corrected today
+#PAGE <<<188>>>
 
 TEXT_BOX  left:123px; top:157564px; width:227px; height:12px; CONTRACTORS QUALITY CONTROL REPORT (QCR)
 
@@ -21589,6 +21777,7 @@ TEXT_BOX  left:281px; top:158205px; width:16px; height:8px; DATE
 TEXT_BOX  left:369px; top:158205px; width:94px; height:8px; SUPERINTENDENT'S INITIALS
 
 TEXT_BOX  left:508px; top:158205px; width:16px; height:8px; DATE
+#PAGE <<<189>>>
 
 TEXT_BOX  left:123px; top:158406px; width:228px; height:12px; CONTRACTORS QUALITY CONTROL REPORT (QCR)
 
@@ -21678,6 +21867,7 @@ Aldave
 
 TEXT_BOX  left:95px; top:158997px; width:91px; height:18px; RFI&amp;RFP STATUS UPDATE
 No RFI w ritten
+#PAGE <<<190>>>
 
 TEXT_BOX  left:123px; top:159248px; width:228px; height:12px; CONTRACTORS QUALITY CONTROL REPORT (QCR)
 
@@ -21836,6 +22026,7 @@ TEXT_BOX  left:523px; top:159691px; width:19px; height:162px; 19.0
 11.5
 17.5
 363.0
+#PAGE <<<191>>>
 
 TEXT_BOX  left:123px; top:160090px; width:228px; height:12px; CONTRACTORS QUALITY CONTROL REPORT (QCR)
 
@@ -21954,6 +22145,7 @@ TEXT_BOX  left:281px; top:160732px; width:16px; height:8px; DATE
 TEXT_BOX  left:370px; top:160732px; width:94px; height:8px; SUPERINTENDENT'S INITIALS
 
 TEXT_BOX  left:509px; top:160732px; width:16px; height:8px; DATE
+#PAGE <<<192>>>
 
 TEXT_BOX  left:123px; top:160932px; width:227px; height:12px; CONTRACTORS QUALITY CONTROL REPORT (QCR)
 
@@ -22040,6 +22232,7 @@ None today
 
 TEXT_BOX  left:95px; top:161505px; width:95px; height:18px; RFI &amp; RFP STATUS UPDATE
 None w ritten today
+#PAGE <<<193>>>
 
 TEXT_BOX  left:123px; top:161774px; width:227px; height:12px; CONTRACTORS QUALITY CONTROL REPORT (QCR)
 
@@ -22239,6 +22432,7 @@ TEXT_BOX  left:281px; top:162415px; width:16px; height:8px; DATE
 TEXT_BOX  left:369px; top:162415px; width:94px; height:8px; SUPERINTENDENT'S INITIALS
 
 TEXT_BOX  left:508px; top:162415px; width:16px; height:8px; DATE
+#PAGE <<<194>>>
 
 TEXT_BOX  left:123px; top:162616px; width:227px; height:12px; CONTRACTORS QUALITY CONTROL REPORT (QCR)
 
@@ -22328,6 +22522,7 @@ TEXT_BOX  left:75px; top:163191px; width:74px; height:10px; PREP/INITIAL DATES
 TEXT_BOX  left:170px; top:163191px; width:185px; height:10px; (Preparatory and initial dates held and advance notice)
 
 TEXT_BOX  left:85px; top:163205px; width:203px; height:10px; No preparatory or initial inspections were held today
+#PAGE <<<195>>>
 
 TEXT_BOX  left:123px; top:163458px; width:227px; height:12px; CONTRACTORS QUALITY CONTROL REPORT (QCR)
 
@@ -22517,6 +22712,7 @@ TEXT_BOX  left:523px; top:163905px; width:19px; height:142px; 6.0
 TEXT_BOX  left:417px; top:163844px; width:16px; height:10px; Total
 
 TEXT_BOX  left:417px; top:164036px; width:16px; height:10px; Total
+#PAGE <<<196>>>
 
 TEXT_BOX  left:123px; top:164300px; width:227px; height:12px; CONTRACTORS QUALITY CONTROL REPORT (QCR)
 
@@ -22558,6 +22754,7 @@ TEXT_BOX  left:281px; top:164941px; width:16px; height:8px; DATE
 TEXT_BOX  left:369px; top:164941px; width:94px; height:8px; SUPERINTENDENT'S INITIALS
 
 TEXT_BOX  left:508px; top:164941px; width:16px; height:8px; DATE
+#PAGE <<<197>>>
 
 TEXT_BOX  left:123px; top:165142px; width:227px; height:12px; CONTRACTORS QUALITY CONTROL REPORT (QCR)
 
@@ -22646,6 +22843,7 @@ TEXT_BOX  left:75px; top:165708px; width:74px; height:10px; PREP/INITIAL DATES
 TEXT_BOX  left:170px; top:165708px; width:185px; height:10px; (Preparatory and initial dates held and advance notice)
 
 TEXT_BOX  left:85px; top:165722px; width:203px; height:10px; No preparatory or initial inspections were held today
+#PAGE <<<198>>>
 
 TEXT_BOX  left:123px; top:165984px; width:227px; height:12px; CONTRACTORS QUALITY CONTROL REPORT (QCR)
 
@@ -22842,6 +23040,7 @@ TEXT_BOX  left:281px; top:166625px; width:16px; height:8px; DATE
 TEXT_BOX  left:369px; top:166625px; width:94px; height:8px; SUPERINTENDENT'S INITIALS
 
 TEXT_BOX  left:508px; top:166625px; width:16px; height:8px; DATE
+#PAGE <<<199>>>
 
 TEXT_BOX  left:417px; top:166822px; width:56px; height:8px; REPORT NUMBER
 
@@ -22931,6 +23130,7 @@ TEXT_BOX  left:85px; top:167389px; width:203px; height:10px; No preparatory or i
 TEXT_BOX  left:75px; top:167406px; width:89px; height:10px; ACTIVITY START/FINISH
 
 TEXT_BOX  left:85px; top:167420px; width:167px; height:10px; No activities were started or finished today
+#PAGE <<<200>>>
 
 TEXT_BOX  left:123px; top:167668px; width:227px; height:12px; CONTRACTORS QUALITY CONTROL REPORT (QCR)
 
@@ -23076,6 +23276,7 @@ TEXT_BOX  left:281px; top:168309px; width:16px; height:8px; DATE
 TEXT_BOX  left:369px; top:168309px; width:94px; height:8px; SUPERINTENDENT'S INITIALS
 
 TEXT_BOX  left:508px; top:168309px; width:16px; height:8px; DATE
+#PAGE <<<201>>>
 
 TEXT_BOX  left:417px; top:168506px; width:56px; height:8px; REPORT NUMBER
 
